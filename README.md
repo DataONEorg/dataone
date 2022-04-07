@@ -1,4 +1,4 @@
-![DataONE Logo](https://camo.githubusercontent.com/dee1d48b632bdd44cb64ccd8e2d9916c9ced907b8488a33e4c0e4f8c0eeb9acb/68747470733a2f2f7777772e646174616f6e652e6f72672f73697465732f616c6c2f696d616765732f446174614f4e455f4c4f474f2e6a7067)
+![](https://user-images.githubusercontent.com/6643222/162324180-b5cf0f5f-ae7a-4ca6-87c3-9733a2590634.png)
 
 [DataONE](https://dataone.org) is a grass-roots, community-maintained federation of data repositories that strives for interoperability and open data access. 
 
